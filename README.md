@@ -4,7 +4,7 @@ AI assistant integration for Blender — connect Claude, GPT, or other
 MCP-compatible assistants directly to your Blender scenes.
 
 **A commercial product by Anvil Interactive Solutions.**
-Available now on [Superhive](https://superhive.com/[[your-listing-link](https://superhivemarket.com/products/blendermcp-pro)]).
+Available now on [Superhive](https://superhivemarket.com/products/blendermcp-pro).
 
 ## What it does
 
@@ -32,12 +32,12 @@ Once installed, you can ask your assistant things like:
 ## Get it
 
 BlenderMCP Pro/Ultra is sold on Superhive:
-👉 [superhive.com/...](https://superhive.com/[[your-listing-link](https://superhivemarket.com/products/blendermcp-pro)])
+👉 [superhivemarket.com/products/blendermcp-pro](https://superhivemarket.com/products/blendermcp-pro)
 
 For licensing questions or custom integration work, contact
 anvilinteractivesolutions@gmail.com.
 
 ## Related work
 
-Built by the same team behind [Unity MCP]([link-to-your-unity-repo](https://www.fab.com/listings/b51c2c3d-0a1b-449d-9717-fc4029ed7b0c))
+Built by the same team behind [Unity MCP](https://www.fab.com/listings/b51c2c3d-0a1b-449d-9717-fc4029ed7b0c)
 and custom MCP integrations for game studio clients.
