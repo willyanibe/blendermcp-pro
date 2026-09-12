@@ -12,6 +12,12 @@ BlenderMCP Pro/Ultra exposes an MCP server inside Blender, letting an
 AI assistant read scene state and drive Blender operations through
 natural language — no manual clicking through menus.
 
+## Demo
+
+[![BlenderMCP Pro Demo 1](https://img.youtube.com/vi/8q7WHED9zSc/0.jpg)](https://www.youtube.com/watch?v=8q7WHED9zSc)
+
+[![BlenderMCP Pro Demo 2](https://img.youtube.com/vi/DrTKJPAJV1k/0.jpg)](https://www.youtube.com/watch?v=DrTKJPAJV1k)
+
 ## Features (v3.2.0)
 
 - Studio profiles for consistent multi-project workflows
